@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.message</groupId>
-	<artifactId>helloworld</artifactId>
+	<artifactId>dhtorresv</artifactId>
 	<version>1.0.1</version>
 	<packaging>war</packaging>
-	<name>helloworld</name>
+	<name>dhtorresv</name>
 	<description>intentemos</description>
 	<url/>
 	<licenses>
